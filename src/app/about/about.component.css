@@ -30,4 +30,12 @@ a {
   color: #66FCF1;
 }
 
+ul {
+  display:inline;
+  list-style-type: none;
+
+}
+h5 {
+  color: #66FCF1;
+}
 
