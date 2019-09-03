@@ -1,0 +1,27 @@
+.navbar{
+  color:#FFFFFF;
+  background-color:#0B0C10;
+}
+.navbar span{
+  color:#66FCF1;
+}
+h1 {
+  cursor: pointer;
+  outline:none;
+  font-weight:700;
+  font-style:bold;
+}
+.btn{
+  margin-left:0.25em;
+  color:#FFFFFF;
+  outline-color: #66FCF1;
+
+}
+.btn:hover, .btn:focus, .btn:active, .btn-primary.active {
+  color:#66FCF1;
+  border-color: #66FCF1;
+  outline:none;
+  cursor: pointer;
+  outline:none;
+}
+

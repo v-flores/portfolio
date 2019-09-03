@@ -1,0 +1,9 @@
+.fab {
+  font-size:33px;
+  color: #FFFFFF;
+  padding:5px;
+
+}
+.fab:hover, .fab:focus, .fab.active, .fab-primary.active {
+  color: #66FCF1;
+}

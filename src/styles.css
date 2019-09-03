@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+  font-family: 'Acumin Pro Bold'
+}
+@font-face {
+  font-family: 'Acumin Pro Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('assets/fonts/Acumin-BdPro.woff'), url('assets/fonts/Acumin-BdPro.woff') format('woff');
+  }
+
+.pages{
+  padding-top: 50px;
+}
+
+
