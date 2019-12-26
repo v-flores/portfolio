@@ -1,23 +1,18 @@
-#wrap {
-	margin: 0 auto;
-}
-
-#wrap {
-  text-align:center;
-}
 
 span {
   color:#66FCF1;
 }
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
+  float:left;
+  width: 35%;
+  vertical-align: top;
+  margin: 0px 10px 10px 10px;
 }
 
 a {
   color: #66FCF1;
+  text-align: center;
+  margin: 0 1px;
 }
 
 .fab {
@@ -31,11 +26,32 @@ a {
 }
 
 ul {
-  display:inline;
-  list-style-type: none;
+  display:table;
+  justify-content: center;
+  margin: auto;
 
+}
+h2, h4 {
+  text-align: center;
 }
 h5 {
   color: #66FCF1;
+  text-align: center;
+}
+p {
+  text-align: left;
+}
+.skills {
+  text-align: left;
+  display:inline-block;
+  padding: 20px;
+  justify-content: left;
+
+}
+.tech {
+  text-align: center;
+  display:inline-block;
+  padding: 20px;
+
 }
 

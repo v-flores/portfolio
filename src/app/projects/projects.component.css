@@ -66,3 +66,20 @@
   transform:scale(1);
   top:0;
 }
+
+.isotope-overlay li{
+  text-align: center;
+
+  padding: 50px;
+  justify-content: center;
+  list-style-type: none;
+  display: inline;
+  text-rendering: auto;
+
+}
+
+@media(max-width: 650px) {
+  .navbar {
+    width:297;
+  }
+}
